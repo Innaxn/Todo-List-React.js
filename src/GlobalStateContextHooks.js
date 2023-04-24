@@ -13,7 +13,7 @@ const initialGlobalState = {
     count: 0,
     todoItems: [{
         id: 1,
-        title: "Die",
+        title: "Do homework",
         done: true
     },
     {
@@ -23,7 +23,7 @@ const initialGlobalState = {
     },
     {
         id: 3,
-        title: "Throw myself",
+        title: "Throw away trash",
     },]
 };
 
